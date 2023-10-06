@@ -1,0 +1,22 @@
+Machine LEarning algorithms and time series forecasting
+
+Dataset has 2 main products, organic and conventional avocados and 6 other sub products (bagged)
+
+I have used 7 Machine learning algorithms, trained and splitting data to evaluate a better fit and best model accuracy.
+I have used time series analysis for short term predictions
+
+7 ML algo:
+Linear Regression, Ridge Model, Lasso Model, KNN Model, SVR Model, Decision tree and random forest regressor
+RMSE Linear Regr :  0.1439
+RMSE Ridge Model :  0.1437
+RMSE Lasso Model :  0.1437
+RMSE KNN Model   :  0.1418
+RMSE SVR Model   :  0.1354
+RMSE Decis Tree  :  0.1547
+RMSE Rnd Forest  :  0.149
+RMSE TS Analysis :  0.1322
+
+Long term predictions: SVR model sets the best accuracy which is around 81.06% based on RMSE score values
+Small HAss avocados tends to sell more around 30-40% on an averge
+Highest staistical assoication with small hass bags and total volume which is 96%
+Random forest regressor could also be an option for best model
