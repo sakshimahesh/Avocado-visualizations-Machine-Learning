@@ -1,6 +1,12 @@
-Machine LEarning algorithms and time series forecasting
+Why I chose this Research project ?
+As and when I researched, Mexico is the largest country which exports avocados to the USA every year.
+And I wanted to see how there imports affect the US economy. 
+Hence a research on this dataset, imports and other vital information of these goods.
+Additionally, Mexico largest producer over 50% of the world's supply.300,000lb/year. 
+Bio Fase's contribution to the rapidly growing Bioplastic Global market, $17.1 billion by 2025 (#SmartInvestments).
 
-Dataset has 2 main products, organic and conventional avocados and 6 other sub products (bagged)
+Machine LEarning algorithms and time series forecasting
+Dataset - has 2 main products, organic and conventional avocados and 6 other sub products (bagged)
 
 I have used 7 Machine learning algorithms, trained and splitting data to evaluate a better fit and best model accuracy.
 I have used time series analysis for short term predictions
