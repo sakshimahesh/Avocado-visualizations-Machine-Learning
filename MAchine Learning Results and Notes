@@ -26,3 +26,4 @@ Long term predictions: SVR model sets the best accuracy which is around 81.06% b
 Small HAss avocados tends to sell more around 30-40% on an averge
 Highest staistical assoication with small hass bags and total volume which is 96%
 Random forest regressor could also be an option for best model
+(split data to 30)
